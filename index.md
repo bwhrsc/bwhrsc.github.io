@@ -1,2 +1,2 @@
-# Ben Hogan
+# bwhrsc.github.io
 Site coming soon!
